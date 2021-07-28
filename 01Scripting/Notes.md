@@ -35,3 +35,21 @@
 ## Shell File Management
 - `ls`  - listing files
 - `ls -l` - get more information about the listed files
+- `ls 2107` - listing usin metacharacters
+
+## Shell
+- A computer program which is a command line interpreter
+- A shell script includes operations to be performed like file manipulation, program execution, and priting text.
+- A shell has an extension .sh 
+- BASH - Bourne Again Shell
+
+## Variables
+- A memory block to hold a value
+- Ther are two types of variables that are created in Shell:
+  - **System Variables**: Predifined variables by BASH, managed by Shell/OS and they are created in UPPERCASE.
+    - Ex: $BASH, $BASH_VERSION, $HOME, $PWD
+  - **User Defined (UDF) Variables**
+  - A-Z, a-z, 0-9, _ : these are the permitted characters for creating varaible names
+
+## Arrays
+- It is a variable that holds mulitple values of the same type and stores them in a contigious memory location
